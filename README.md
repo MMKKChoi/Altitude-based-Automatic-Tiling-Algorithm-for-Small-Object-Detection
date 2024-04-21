@@ -38,7 +38,7 @@ catkin_make
 
 source ~/catkin_ws/devel/setup.bash
 
-rosrun tiling
+rosrun tiling detect_screen_divide.py
 ```
 
 ## Paper
