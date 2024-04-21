@@ -5,7 +5,7 @@
 + This work is output of master degree in WENS lab (https://wens.re.kr), Dept. of IT Convergence Engineering, Kumoh National Institute of Technology
 
 ## Introduction
-In this paper, a method is proposed to perform consistent detection of small objects across all altitudes using UAVs. This approach determines the number of tiles for detecting small objects at each altitude. Real-time object detection was conducted on the AI board mounted on the UAV, and for this purpose, the model was optimized using a lightweighting process.
++ In this paper, a method is proposed to perform consistent detection of small objects across all altitudes using UAVs. This approach determines the number of tiles for detecting small objects at each altitude. Real-time object detection was conducted on the AI board mounted on the UAV, and for this purpose, the model was optimized using a lightweighting process.
 
 <img width="808" alt="tt" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/287d287c-e8d4-40f4-81c0-1e2938905014">
 
