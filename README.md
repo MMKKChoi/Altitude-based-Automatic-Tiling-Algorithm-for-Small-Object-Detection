@@ -9,9 +9,14 @@
 
 <img width="808" alt="tt" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/287d287c-e8d4-40f4-81c0-1e2938905014">
 
-## Environment
++ 
 
-## Installation & Usage
+## Environment
++ Jetson Xavier/Orin NX (Jetpack 5.1.2)
++ Yolov5 (https://github.com/ultralytics/yolov5)
+
+
+## Installation
 
 ## Paper
 + M. K. Choi and S. Y. Shin, "Altitude-Based Automatic Tiling Algorithm for Small Object Detection," The Journal of Korean Institute of Communications and Information Sciences, vol. 49, no. 3, pp. 424-434, 2024. DOI: 10.7840/kics.2024.49.3.424.
