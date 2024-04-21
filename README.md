@@ -14,7 +14,7 @@
 <p align="center">
   <img width="635" alt="ss" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/93d39e33-28cd-4b1a-b0f8-1431e4b16f76">
 </p>
-
+<br><br>
 + Comparison of object detection results: The first row presents the ground truth with yellow boxes, the second row presents results using YOLOv5, the third row presents results with 2x2 tiling, and the fourth row presents results using the proposed method.
 
 ## Environment
