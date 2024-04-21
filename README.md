@@ -10,13 +10,7 @@
 <img width="808" alt="tt" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/287d287c-e8d4-40f4-81c0-1e2938905014">
 
 + The tiling algorithm for image processing to find small objects
-
-
-
-
-
-
-
+<br><br>
 <p align="center">
   <img width="635" alt="ss" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/93d39e33-28cd-4b1a-b0f8-1431e4b16f76">
 </p>
