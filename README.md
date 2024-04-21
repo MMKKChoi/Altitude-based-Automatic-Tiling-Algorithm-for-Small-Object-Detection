@@ -6,14 +6,17 @@
 
 ## Introduction
 + In this paper, a method is proposed to perform consistent detection of small objects across all altitudes using UAVs. This approach determines the number of tiles for detecting small objects at each altitude. Real-time object detection was conducted on the AI board mounted on the UAV, and for this purpose, the model was optimized using a lightweighting process.
+<br><br>
 
 <img width="808" alt="tt" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/287d287c-e8d4-40f4-81c0-1e2938905014">
 <br><br>
+
 + The tiling algorithm for image processing to find small objects
 <br><br><br><br>
 <p align="center">
   <img width="635" alt="ss" src="https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/93d39e33-28cd-4b1a-b0f8-1431e4b16f76">
 </p>
+
 <br><br>
 + Comparison of object detection results: The first row presents the ground truth with yellow boxes, the second row presents results using YOLOv5, the third row presents results with 2x2 tiling, and the fourth row presents results using the proposed method.
 
