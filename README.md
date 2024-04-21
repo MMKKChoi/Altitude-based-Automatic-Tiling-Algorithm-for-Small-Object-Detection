@@ -28,13 +28,17 @@
 + Yolov5 (https://github.com/ultralytics/yolov5)
 
 
-## Installation
+## Installation & Usage
 
 ```
 mkdir -p ~/catkin_ws/src && cd ~/catkin_ws/src
 git clone https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection.git
 cd ..
 catkin_make
+
+source ~/catkin_ws/devel/setup.bash
+
+rosrun 
 ```
 
 ## Paper
