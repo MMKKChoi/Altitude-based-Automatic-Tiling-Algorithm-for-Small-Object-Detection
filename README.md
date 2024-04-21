@@ -5,7 +5,7 @@
 + This work is output of master degree in WENS lab (https://wens.re.kr), Dept. of IT Convergence Engineering, Kumoh National Institute of Technology
 
 ## Introduction
-
+![image](https://github.com/MMKKChoi/Altitude-based-Automatic-Tiling-Algorithm-for-Small-Object-Detection/assets/125550210/74c1bfeb-4442-4ae3-b733-bccd067fe2e8)
 ## Environment
 
 ## Installation & Usage
