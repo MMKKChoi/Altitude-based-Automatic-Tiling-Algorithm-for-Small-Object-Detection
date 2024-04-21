@@ -1,0 +1,8 @@
+prefix=/home/wens/catkin_ws/install
+
+Name: tiling
+Description: Description of tiling
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ltiling
+Requires: roscpp rospy std_msgs message_runtime

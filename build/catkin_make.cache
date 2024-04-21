@@ -1,0 +1,2 @@
+detection_msgs:tiling:yolov5_ros
+-DCATKIN_DEVEL_PREFIX=/home/wens/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wens/catkin_ws/install -G Unix Makefiles
