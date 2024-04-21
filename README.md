@@ -18,6 +18,7 @@
 </p>
 
 <br>
+
 + Comparison of object detection results: The first row presents the ground truth with yellow boxes, the second row presents results using YOLOv5, the third row presents results with 2x2 tiling, and the fourth row presents results using the proposed method.
 
 ## Environment
