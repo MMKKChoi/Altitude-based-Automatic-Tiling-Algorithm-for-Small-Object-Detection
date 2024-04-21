@@ -6,3 +6,9 @@
 
 ## Introduction
 
+## Environment
+
+## Installation & Usage
+
+## Paper
++ M. K. Choi and S. Y. Shin, "Altitude-Based Automatic Tiling Algorithm for Small Object Detection," The Journal of Korean Institute of Communications and Information Sciences, vol. 49, no. 3, pp. 424-434, 2024. DOI: 10.7840/kics.2024.49.3.424.
