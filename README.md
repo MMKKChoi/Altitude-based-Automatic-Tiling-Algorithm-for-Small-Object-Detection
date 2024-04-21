@@ -23,6 +23,7 @@
 
 ## Environment
 + Jetson Xavier/Orin NX (Jetpack 5.1.2)
++ Pixhawk
 + Yolov5 (https://github.com/ultralytics/yolov5)
 
 
